@@ -1,0 +1,3 @@
+This is a climbing software project
+
+We intend to create a software to help headsetter to manage there work / teams / etc...
