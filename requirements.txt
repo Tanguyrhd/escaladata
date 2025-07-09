@@ -1,0 +1,9 @@
+# DATABASE
+supabase
+
+# API
+fastapi
+uvicorn
+
+# .env
+python-dotenv
